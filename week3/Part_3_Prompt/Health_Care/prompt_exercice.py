@@ -35,7 +35,10 @@ health_resources = [
     }
 ]
 prompt = """
-^ WRITE YOUR PROMPT HERE
+Answer the user's question using ONLY the healthcare ressource informations provided below.
+
+Make the answer a numbered list Prioritize languages put practitioners who speak Arabic at the top of the list 
+Do not use: profanity a complex vocabulary
 """
 
 
