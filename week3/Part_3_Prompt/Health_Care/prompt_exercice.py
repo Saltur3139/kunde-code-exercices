@@ -22,7 +22,7 @@ health_resources = [
         "languages": ["English", "French"],
         "eligibility": "Appointments depend on availability.",
         "cost": "OHIP-covered services are generally free."
-    },
+    }, 
     {
         "name": "Newcomer Dental Support Program",
         "service": "Dental care assistance for eligible newcomers",
